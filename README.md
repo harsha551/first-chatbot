@@ -2,6 +2,7 @@
 A basic chatbot that gives details of Earthquakes across the world in different years, this decade.
 
 # Chatbot Block Diagram
+![harsha](https://user-images.githubusercontent.com/73134870/96507891-751a5400-1277-11eb-8bfe-fbdd802707da.PNG)
 
 
 # For Youtube video please click the following link:
