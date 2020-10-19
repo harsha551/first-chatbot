@@ -10,8 +10,9 @@ https://youtu.be/gByW7uaUF_g
 
 
 # Chatbots everywhere!!!
-![download1](https://user-images.githubusercontent.com/73134870/96508537-5f595e80-1278-11eb-93ea-b802ff9c0147.png)
-![image](https://user-images.githubusercontent.com/73134870/96508430-3769fb00-1278-11eb-9ae5-18482d5ba052.png)
+
+
+
 
 # Working of My chatbot in brief!
 Warm greetings everyone!!!
