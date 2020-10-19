@@ -9,12 +9,12 @@ A basic chatbot that gives details of Earthquakes across the world in different 
 https://youtu.be/gByW7uaUF_g
 
 
+
 # Chatbots everywhere!!!
 
 ![download1](https://user-images.githubusercontent.com/73134870/96508537-5f595e80-1278-11eb-93ea-b802ff9c0147.png)
 
-
-
+![image](https://user-images.githubusercontent.com/73134870/96509741-1d311c80-127a-11eb-8d81-b332bdbb8a4a.png)
 
 
 # Working of My chatbot in brief!
